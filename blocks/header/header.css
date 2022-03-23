@@ -1,8 +1,6 @@
 .header {
-	border: 1px solid red;
-	margin: 0px auto;
-	max-width: 1184px;
+	padding: 28px 48px 0px;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: baseline;
 }
