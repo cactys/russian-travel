@@ -1,18 +1,6 @@
 .page {
+	background-color: #2A2C2F;
+	color: #FFFFFF;
 	margin: 0px auto;
 	max-width: 1280px;
-	display: grid;
-  grid-template-columns: 48px 100px 1fr 100px 48px;
-  grid-template-rows: 52px repeat(5, 1fr) 18px;
-	-webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  grid-template-areas:
-  ". header header header ."
-  ". . lead . ."
-  ". . intro . ."
-  ". photo-grid photo-grid photo-grid ."
-  ". . places . ."
-  ". cover cover cover ."
-  ". footer footer footer. ";
 }
