@@ -1,4 +1,5 @@
 .photo-grid__image {
+	vertical-align: top;
 	width: 284px;
 	height: 213px;
 }

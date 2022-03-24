@@ -31,6 +31,15 @@
 @import url(../blocks/photo-grid/__image/photo-grid__image.css);
 
 @import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraph/_top/place__paragraph_top.css);
+@import url(../blocks/place/__paragraph/_bottom/place__paragraph_bottom.css);
 
 @import url(../blocks/cover/cover.css);
 
@@ -41,17 +50,20 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
 @font-face {
-    src: url(../font/Inter-Regular.otf);
+    src: url(../font/Inter-Regular.woff) format('woff'),
+				 url(../font/Inter-Regular.woff2) format('woff2');
     font-family: 'Inter';
     font-weight: 400;
 }
 @font-face {
-    src: url(../font/Inter-Bold.otf);
+    src: url(../font/Inter-Bold.woff) format('woff'),
+				 url(../font/Inter-Bold.woff2) format('woff2');
     font-family: 'Inter';
     font-weight: 700;
 }
 @font-face {
-    src: url(../font/Inter-Black.otf);
+    src: url(../font/Inter-Black.woff) format('woff'),
+				 url(../font/Inter-Black.woff2) format('woff2');
     font-family: 'Inter';
     font-weight: 900;
-} 
+}
