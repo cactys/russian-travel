@@ -1,3 +1,12 @@
 .lead {
-	padding: 56px 148px calc(92px / 2);
+  padding: 56px 0px calc(92px / 2);
+  max-width: 984px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead {
+    max-width: 928px;
+  }
 }
