@@ -1,0 +1,6 @@
+.place__header {
+	margin-bottom: 48px;
+	display: flex;
+	justify-content: start;
+	align-items: end;
+}
