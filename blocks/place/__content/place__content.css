@@ -1,4 +1,5 @@
 .place__content {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
+	grid-template-columns: 460px 40px 484px;
+	grid-template-rows: 1fr 26px 1fr;
 }
