@@ -3,4 +3,9 @@
 	background-size: cover;
 	width: 176px;
 	height: 52px;
+	transition: opacity .4s;
+}
+
+.header__logo:hover {
+	opacity: 0.8;
 }

@@ -1,2 +1,4 @@
 .cover {
+	padding: calc(92px / 2) 48px 92px;
+	box-sizing: border-box;
 }
