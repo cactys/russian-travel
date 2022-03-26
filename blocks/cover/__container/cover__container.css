@@ -1,13 +1,15 @@
 .cover__container {
+	margin: 0px auto;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	margin: 0;
-	width: 1184px;
+	max-width: 1184px;
+	width: 100%;
 	height: 740px;
 	background-image: url(../../../images/cover-trains.jpg);
 	background-size: cover;
+	position: absolute;
 	position: relative;
 	text-decoration: none;
 	color: #FFFFFF;
@@ -27,4 +29,25 @@
 
 .cover__container:hover::before {
 	opacity: 0.8;
+}
+
+@media screen and (max-width: 1024px) {
+	.cover__container {
+		max-width: 1024px;
+		height: 640px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.cover__container {
+		max-width: 768px;
+		height: 480px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.cover__container {
+		max-width: 320px;
+		height: 200px;
+	}
 }

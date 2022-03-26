@@ -1,6 +1,12 @@
 .place__header {
-	margin-bottom: 48px;
 	display: flex;
-	justify-content: start;
+	justify-content: space-between;
 	align-items: end;
+}
+
+@media screen and (max-width: 320px) {
+	.place__header {
+		flex-direction: column;
+		justify-content: start;
+	}
 }
