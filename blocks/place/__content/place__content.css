@@ -1,7 +1,6 @@
 .place__content {
 	margin-top: 48px;
 	display: flex;
-	justify-content: space-between;
 }
 
 @media screen and (max-width: 320px) {
