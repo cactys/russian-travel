@@ -1,12 +1,12 @@
 .lead__image {
-	max-width: 984px;
-	min-width: 320px;
-	width: 100%;
-	vertical-align: top;
+  max-width: 984px;
+  min-width: 320px;
+  width: 100%;
+  vertical-align: top;
 }
 
 @media screen and (max-width: 1024px) {
-	.lead__image {
-		max-width: 928px;
-	}
+  .lead__image {
+    max-width: 928px;
+  }
 }

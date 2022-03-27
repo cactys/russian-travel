@@ -1,16 +1,16 @@
 .cover {
-	padding: calc(92px / 2) 0px 92px;
-	box-sizing: border-box;
+  padding: calc(92px / 2) 0px 92px;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 768px) {
-	.cover {
-	padding: calc(90px / 2) 0px 88px;
-	}
+  .cover {
+    padding: calc(90px / 2) 0px 88px;
+  }
 }
 
 @media screen and (max-width: 320px) {
-	.cover {
-	padding: calc(66px / 2) 0px 64px;
-	}
+  .cover {
+    padding: calc(66px / 2) 0px 64px;
+  }
 }
