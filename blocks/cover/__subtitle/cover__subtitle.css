@@ -8,6 +8,19 @@
   line-height: 1.22;
 }
 
+@media screen and (max-width: 520px) {
+  .cover__subtitle {
+    font-size: calc((100vw - 320px) / (520 - 320) * (18 - 14) + 14px);
+  }
+}
+
+@media screen and (max-width: 445px) {
+  .cover__subtitle {
+    max-width: 288px;
+    font-size: 14px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .cover__subtitle {
     max-width: 288px;

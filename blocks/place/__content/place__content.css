@@ -3,6 +3,13 @@
   display: flex;
 }
 
+@media screen and (max-width: 560px) {
+  .place__content {
+    margin: 0px;
+    flex-direction: column;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place__content {
     margin: 0px;
