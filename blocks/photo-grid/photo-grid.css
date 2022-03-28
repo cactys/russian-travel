@@ -24,10 +24,15 @@
   }
 }
 
+@media screen and (max-width: 720px) {
+  .photo-grid {
+    gap: 12px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .photo-grid {
     max-width: 288px;
     grid-template-columns: 1fr;
-    gap: 12px;
   }
 }
