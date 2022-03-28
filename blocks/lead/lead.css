@@ -1,8 +1,6 @@
 .lead {
   box-sizing: border-box;
   padding: 56px 0px calc(92px / 2);
-  /* max-width: 984px; */
-  /* margin: 0px auto; */
   text-align: center;
 }
 
@@ -15,6 +13,5 @@
 @media screen and (max-width: 764px) {
   .lead {
     padding: 48px 0px calc(64px / 2);
-    max-width: 928px;
   }
 }
