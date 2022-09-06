@@ -1,4 +1,6 @@
-*[Ссылка на DEMO проекта](https://cactys.github.io/russian-travel/)*
+**[Ссылка на DEMO проекта](https://cactys.github.io/russian-travel/)**
+  - *[макет Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)*
+
 # Путешествия по России
 ** Вторая проектная работа. Одностраничный лэндинг с адаптацией под разные разрешения, от стационарного ПК до мобильного телефона. Хорошее исполнение дизайна. **
 
