@@ -5,8 +5,8 @@
 ### :page_facing_up: **В планах:**
   + рефакторинг проекта:
     - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  + интерактивная карта
-    <img src="./images/lead-polka.jpg" width="250" alt="Ваша полка — верхняя" />
+  + интерактивная карта  
+    <img src="./images/lead-polka.jpg" width="400" alt="Ваша полка — верхняя" />
   + реализовать модальное окно картинки
   + добавление/удаление картинки
   + добавление/удаление меса
