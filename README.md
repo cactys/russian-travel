@@ -5,8 +5,8 @@
 **Вторая проектная работа. Одностраничный лэндинг с адаптацией под разные разрешения, от стационарного ПК до мобильного телефона. Хорошее исполнение дизайна.**
 
 ### :page_facing_up: **В планах:**
-  + [ ] рефакторинг проекта:
-      - [ ] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  + [x] [рефакторинг проекта:](https://github.com/cactys/react-russian-travel)
+      - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   + [ ] интерактивная карта  
       <img src="./images/lead-polka.jpg" width="400" alt="Ваша полка — верхняя" />
   + [ ] реализовать модальное окно картинки
