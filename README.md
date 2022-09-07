@@ -1,3 +1,13 @@
+<p align="center"><kbd> <img width="768" height="auto" align="center" src="./DEMO.gif" alt="DEMO"> </kbd></p>
+
+<details>  <summary> <kbd>768px</kbd> </summary>
+<p align="center"><kbd> <img width="768" height="auto" align="center" src="./DEMO-768.gif" alt="DEMO"> </kbd></p>
+</details>
+
+<details>  <summary> <kbd>425px</kbd> </summary>
+<p align="center"><kbd> <img width="425" height="auto" align="center" src="./DEMO-425.gif" alt="DEMO"> </kbd></p>
+</details>
+
 **[Ссылка на DEMO проекта](https://cactys.github.io/russian-travel/)**
   - *[макет Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)*
 
@@ -5,7 +15,7 @@
 **Вторая проектная работа. Одностраничный лэндинг с адаптацией под разные разрешения, от стационарного ПК до мобильного телефона. Хорошее исполнение дизайна.**
 
 ### :page_facing_up: **В планах:**
-  + [x] [рефакторинг проекта:](https://github.com/cactys/react-russian-travel)
+  - [x] [рефакторинг проекта:](https://github.com/cactys/react-russian-travel)
       - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ___
