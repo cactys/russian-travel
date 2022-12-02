@@ -15,6 +15,9 @@
 
 **Вторая проектная работа. Одностраничный лэндинг с адаптацией под разные разрешения, от стационарного ПК до мобильного телефона. Хорошее исполнение дизайна.**
 
+### 📋 **Попытка переноса на ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)**
+[Все еще в работе](https://github.com/cactys/react-russian-travel)
+
 ### :page_facing_up: **В планах:**
   - [x] [рефакторинг проекта:](https://github.com/cactys/react-russian-travel)
       - [x] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
