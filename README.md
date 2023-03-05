@@ -10,7 +10,7 @@
 <p align="center"><kbd> <img width="425" height="auto" align="center" src="./DEMO-425.gif" alt="DEMO"> </kbd></p>
 </details>
 
-**[Ссылка на DEMO проекта](https://cactys.github.io/russian-travel/)**
+**[Ссылка на DEMO проекта](https://russian-travel-kohl.vercel.app/)**
   - *[макет Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)*
 
 **Вторая проектная работа. Одностраничный лэндинг с адаптацией под разные разрешения, от стационарного ПК до мобильного телефона. Хорошее исполнение дизайна.**
